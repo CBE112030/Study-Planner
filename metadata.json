@@ -1,0 +1,6 @@
+{
+  "name": "Study Planner 學習進度管理助手",
+  "description": "專為大學生設計的單頁式學習進度管理助手，整合科目進度追蹤、每週學習時數統計圖表與每日讀書計畫。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
